@@ -1,7 +1,7 @@
 <h1 align="center"><b>👋 Hello, I'm Jatin Bhaliya</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=30&center=true&vCenter=true&width=600&height=100&lines=Hello!+Nice+to+meet+you;Welcome+to+my+gihub+profile">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=30&center=true&vCenter=true&width=600&height=100&lines=Hello!;Welcome+to+my+gihub+profile">
 </p>
 <p align="center">
 	<picture><img src = "https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" width = 300px></picture>
