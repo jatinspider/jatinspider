@@ -21,7 +21,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mysql,java&perline=14" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,nextjs,nodejs,express,mongodb,php&perline=14" />
+    <img src="https://skillicons.dev/icons? 
+          i=python,flutter,redux,cpp,nextjs,nodejs,express,mongodb,c#&perline=14" />
   </a>
 </p>
 
