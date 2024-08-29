@@ -17,14 +17,14 @@
   </ul>
 </p>
 
-## 🛠️ Technologies that i know
+## 🛠️ Technologies that I know
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mysql,java&perline=14" />
-    <img src="https://skillicons.dev/icons? 
-          i=python,flutter,redux,cpp,nextjs,nodejs,express,mongodb&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,bootstrap,redux,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,cpp,nextjs,,&perline=14" />
   </a>
 </p>
+
 
 ## 🔗 Connect with me:
 <p align="left">
